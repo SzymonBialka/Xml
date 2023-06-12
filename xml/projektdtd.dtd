@@ -1,0 +1,18 @@
+<!ELEMENT Description (exercise+)>
+  <!ELEMENT exercise (muscle, name, series, repeat, coach, hardship, link, picture)>
+ <!ATTLIST exercise type (exercise_1|exercise_2|exercise_3) #REQUIRED>
+  <!ELEMENT muscle (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT series (#PCDATA)>
+  <!ATTLIST series range (serii) #REQUIRED>
+  <!ELEMENT repeat (#PCDATA)>
+  <!ATTLIST repeat scope (again) #REQUIRED>
+  <!ELEMENT coach (#PCDATA)>
+  <!ELEMENT hardship (#PCDATA)>
+  <!ELEMENT link (#PCDATA)>
+  <!ELEMENT picture (#PCDATA)>
+  <!ELEMENT stopka (#PCDATA)>
+  <!ENTITY Title "Tytul:Trening personalny">
+  <!ENTITY Tworca "Tworca: Szymon Białka">
+  <!ENTITY Zacheta "Powodzenia">
+  <!ENTITY n "&#10;">

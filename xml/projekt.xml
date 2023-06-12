@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="projektxsl.xsl"?>
+
+<!DOCTYPE Description SYSTEM "projektdtd.dtd">
+<Description>   
+        <exercise type="exercise_1">
+            <muscle>Barki</muscle>
+            <name>OHP</name>
+            <series range="serii">4</series>
+            <repeat scope="again">8</repeat>
+            <coach>Michał Sakowski</coach>
+            <hardship>Trudność:3/5</hardship>
+            <link>https://www.youtube.com/watch?v=zQRcZjp3ZVI</link>
+            <picture>https://mateuszgrabowski.com.pl/wp-content/uploads/2020/02/ohp-600x535-1.jpg</picture>
+           <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>
+        <exercise type="exercise_2">
+            <muscle>Plecy</muscle>
+            <name>Wiosłowanie sztangą</name>
+            <series range="serii">4</series>
+            <repeat scope="again">12</repeat>
+            <coach>Szymon Moszny</coach>
+            <hardship>4/5</hardship>
+            <link>https://www.youtube.com/watch?v=MOlDmANU_4U</link>
+            <picture>https://mateuszgrabowski.com.pl/wp-content/uploads/2019/12/wioslowanie-sztanga-600x600-1.jpg</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>
+        <exercise type="exercise_3">
+            <muscle>Klatka piersiowa</muscle>
+            <name>Wyciskanie sztangi na leżąc</name>
+            <series range="serii">5</series>
+            <repeat scope="again">5</repeat>
+            <coach>Tomasz Grzymski</coach>
+            <hardship>4/5</hardship>
+            <link>https://www.youtube.com/watch?v=l9BBv5bU4ks</link>
+            <picture>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bench_press_with_support.jpg/330px-Bench_press_with_support.jpg</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>
+        <exercise type="exercise_1">
+            <muscle>Biceps</muscle>
+            <name>Uginanie młotkowe</name>
+            <series range="serii">4</series>
+            <repeat scope="again">12</repeat>
+            <coach>Buduj Mase</coach>
+            <hardship>2/5</hardship>
+            <link>https://www.youtube.com/watch?v=6V_gm1HkRcQ</link>
+            <picture>https://www.fabrykasily.pl/upload/gallery/2018/07/id_9813_1532082434_1260x840.jpg</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>
+        <exercise type="exercise_2">
+            <muscle>Triceps</muscle>
+            <name>Dipsy</name>
+            <series range="serii">4</series>
+            <repeat scope="again">10</repeat>
+            <coach>Szymon Moszny</coach>
+            <hardship>2/5</hardship>
+            <link>https://www.youtube.com/watch?v=hiAvKCpOWdg</link>
+            <picture>https://www.fabrykasily.pl/upload/gallery/2018/07/id_9772_1531225007_1260x841.jpg</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise> 
+        <exercise type="exercise_3">
+            <muscle>Brzuch</muscle>
+            <name>Allahy</name>
+            <series range="serii">4</series>
+            <repeat scope="again">12</repeat>
+            <coach>Kaja Soboń</coach>
+            <hardship>4/5</hardship>
+            <link>https://www.youtube.com/watch?v=9zCV0OdlySIt=182s</link>
+            <picture>https://www.zapytajtrenera.pl/upload/zontek_allahy_brzuch_pozycja_wyjsciowa.jpg</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>
+        <exercise type="exercise_1">
+            <muscle>Udo</muscle>
+            <name>Przysiad ze sztangą</name>
+            <series range="serii">5</series>
+            <repeat scope="again">5</repeat>
+            <coach>Marius Mróz</coach>
+            <hardship>4/5</hardship>
+            <link>https://www.youtube.com/watch?v=Wv7KejSwEvQ</link>
+            <picture>https://www.fabrykasily.pl/upload/gallery/2020/03/id_23248_1585572882_1260x840.jpg</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>
+        <exercise type="exercise_2">
+            <muscle>Łydka</muscle>
+            <name>Ośle wspiecia</name>
+            <series range="serii">4</series>
+            <repeat scope="again">10</repeat>
+            <coach>Radek Słodkiewicz</coach>
+            <hardship>2/5</hardship>
+            <link>https://www.youtube.com/watch?v=TtgaEpk0XX4</link>
+            <picture>https://www.budujmase.pl/wp-content/uploads/osle-wspiecia.png</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>
+        <exercise type="exercise_3">
+            <muscle>Pośladek</muscle>
+            <name>Hip-Thrust</name>
+            <series range="serii">4</series>
+            <repeat scope="again">12</repeat>
+            <coach>Sebastian Kot</coach>
+            <hardship>4/5</hardship>
+            <link>https://www.youtube.com/watch?v=zj6IrdvL9Pst=2s</link>
+            <picture>https://mateuszgrabowski.com.pl/wp-content/uploads/2019/12/hip-thrust-600x600-1.jpg</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>
+        <exercise type="exercise_1">
+            <muscle>Wielo stawowe</muscle>
+            <name>Martwy ciąg</name>
+            <series range="serii">5</series>
+            <repeat scope="again">5</repeat>
+            <coach>Michał Kanclerz</coach>
+            <hardship>5/5</hardship>
+            <link>https://www.youtube.com/watch?v=T0LqdFpweQU</link>
+            <picture>https://www.fabrykasily.pl/upload/gallery/2018/07/id_9665_1531130181_1260x840.jpg</picture>
+            <stopka>&Title;&n;&Tworca;</stopka>
+        </exercise>       
+</Description>
